@@ -3,7 +3,7 @@
 - Data Science Master student at [ESSEC & CentraleSupélec](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/)
 - Completed internships at EY Poland and Nissan UK
 - Bachelor of Business Management
-- Currently looking for a Data Science / ML / AI internship
+- Looking for a Data Science / ML / AI internship (if interested contact me via [linkedin](https://www.linkedin.com/in/jedrzej-alchimowicz-b972a0151/) or mail at jedrzejalchimowicz@gmail.com)
 
 ### What I'm currently working on
 - Advanced Deep Learning, NLP, Reinforcement Learning, Machine Learning in Network Science courses at CentraleSupélec
