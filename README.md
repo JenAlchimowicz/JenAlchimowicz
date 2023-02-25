@@ -1,6 +1,6 @@
 ### Hi, I'm Jen 👋
 
-- Data Scientist at [Samsung Research](https://research.samsung.com/srpol) who specialises in large-scale reinforcement learning systems
+- Data Scientist at [Samsung Research](https://research.samsung.com/srpol) specialised in large-scale reinforcement learning systems
 - Completed internships at EY Poland, CRI Paris and Nissan UK
 - Holds a Master's of Data Science and Business Analytics from [ESSEC & CentraleSupélec](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/)
 - Completed Andrew Ng's [Machine Learnign specialisation](https://www.coursera.org/specializations/machine-learning-introduction) and [Deep learning specialisation](https://www.coursera.org/specializations/deep-learning)
