@@ -7,7 +7,7 @@
 
 ### What I'm currently working on
 - Learning towards [AWS Solutions Architect certificate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-- RL-from-scratch a repository and series of tutorials on deep reinforcement learning algorithms implemented in pure PyTroch
+- RL-from-scratch a repository and series of tutorials on deep reinforcement learning algorithms implemented in PyTroch
 - Tech blog - [latest article on regression evaluation metrics](https://medium.com/@jedrzejalchimowicz/regression-evaluation-metrics-mae-mse-rmse-r-squared-adjusted-r-squared-which-one-should-67c8d93bc5a8)
 
 
