@@ -8,8 +8,9 @@
 
 ### What I'm currently working on
 - Studying MLOps best practices and putting them into practice in [this repo](https://github.com/JenAlchimowicz/YouTube-Trending-MLops)
+- LLM based TV show & movie recommender system - [demo here](https://context2movie.streamlit.app/)
 - RL-from-scratch a repository and series of tutorials on deep reinforcement learning algorithms implemented in PyTroch
-- [Tech blog](https://medium.com/@jedrzejalchimowicz) - [most popular article on regression evaluation metrics](https://medium.com/@jedrzejalchimowicz/regression-evaluation-metrics-mae-mse-rmse-r-squared-adjusted-r-squared-which-one-should-67c8d93bc5a8)
+- [Tech blog](https://medium.com/@jedrzejalchimowicz)
 
 
 <!--
