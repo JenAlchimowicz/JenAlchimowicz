@@ -7,7 +7,7 @@
 - Completed Andrew Ng's [Machine Learnign specialisation](https://www.coursera.org/specializations/machine-learning-introduction) and [Deep learning specialisation](https://www.coursera.org/specializations/deep-learning) courses
 
 ### What I'm currently working on
-- RL-from-scratch a repository and series of tutorials on deep reinforcement learning algorithms implemented in PyTroch
+- [easygrad](https://github.com/JenAlchimowicz/easygrad) - an automatic gradient engine from scratch (like Pytorch)
 - [Tech blog](https://medium.com/@jedrzejalchimowicz) (sometimes)
 
 
